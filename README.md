@@ -1,6 +1,6 @@
-# ISStracker
+# ISSOverheadNotifier
 
-ISStracker is a Python repository designed for real-time tracking of the International Space Station (ISS). It offers functionalities to fetch ISS position data, determine its visibility from a specified location, visualize its position on a map, and send email notifications to recipients.
+ISSOverheadNotifier is a Python repository designed for real-time tracking of the International Space Station (ISS). It offers functionalities to fetch ISS position data, determine its visibility from a specified location, visualize its position on a map, and send email notifications to recipients.
 
 # Key Features:
 
