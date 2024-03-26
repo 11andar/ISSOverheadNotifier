@@ -21,7 +21,7 @@ class Notification:
 
                 for recipient in RECIPIENTS:
                     # Construct the email message
-                    subject = "ISS Tracker"
+                    subject = "ISSOverheadNotifier"
                     body = (f"Hi {recipient},\n\nISS is approximately somewhere above {location.name}. "
                             f"Look up and see if you can spot it! 🛰️")
                     message = f"Subject:{subject}\n\n{body}"
